@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.slider {
+    width: 600px;
+    height: 600px;
+    border: 2px solid #000;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.line {
+    width: 1800px;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}

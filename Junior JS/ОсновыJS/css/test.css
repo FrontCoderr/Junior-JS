@@ -1,0 +1,12 @@
+.bg{
+    background: #000;
+}
+.w{
+    background: #ffff;
+}
+.a{
+    width: 200px;
+    height: 200px;
+    border: 1px solid gold;
+    display: inline-block;
+}
